@@ -175,6 +175,5 @@ Visualization validates assumptions, reveals patterns invisible in raw numbers, 
 
 ---
 
-## 👨‍💻 Author
+## BHAVYA MATHUR
 
-Made as part of the **Elevate Labs AI & ML Internship — Task 2**
